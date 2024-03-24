@@ -7,8 +7,6 @@
 
 #### 📝 PHP+Laravel 
 
-#### 🖥️ CompTIA A+ and N+ through Udemy
-
 #### 💬 How to build a chat server (pp)
 
 #### 📆 Excel calendar automation (pp, uses API)

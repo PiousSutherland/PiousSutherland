@@ -1,4 +1,3 @@
-[![Deploy](https://www.devyzer.io/deploy/button.svg)](https://www.devyzer.io/silos/new?repo-url=https://github.com/devyzer/laravel-getting-started&source=git)
 > [!IMPORTANT]
 > # @PiousSutherland at your service
 1. Doing a thesis to finish my Bachelors in Computing at Belgium Campus

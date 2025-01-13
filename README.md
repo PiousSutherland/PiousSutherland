@@ -1,13 +1,14 @@
 > [!IMPORTANT]
 > # @PiousSutherland at your service
-1. Doing a thesis to finish my Bachelors in Computing at Belgium Campus
-1. Working as a jr DevOps Engineer @ICTGlobe for the year 2024
+DevOps Engineer with a passion for scripting and ~being lazy~ **automating** tasks
+
+I love RegEx, ![not that anyone cares](https://i.makeagif.com/media/12-04-2017/sDosxm.gif)
 
 ### 🌱 Here's how I'm growing and what I'm learning:
 
-#### 📝 PHP+Laravel 
+#### 📝 Mobile app for playlist generation, with a twsit (in .NET C# / MAUI)
 
-#### 💬 How to build a chat server (pp)
+#### 💬 Build a chat server (pp)
 
 #### 📆 Excel calendar automation (pp, uses API)
 
@@ -15,8 +16,8 @@
 
 > ##### pp = personal project
 
-## 📫 Email me at sutherlandpious@gmail.com or read [my LinkedIn](https://www.linkedin.com/in/pious-sutherland-b608b828b/)
-(hehe, [***Phil Hanley joke***](https://www.youtube.com/watch?v=v6gF00Hf2Rw))
+## 📫 Email me at [sutherlandpious@gmail.com](mailto:sutherlandpious@gmail.com) or read [my LinkedIn](https://www.linkedin.com/in/pious-sutherland-b608b828b/)
+(hehe, [***Phil Hanley joke***](https://www.youtube.com/watch?v=v6gF00Hf2Rw&t=47))
 
 ---
 > [!NOTE]
